@@ -13,4 +13,8 @@ This repository contains basic Selenium WebDriver examples to help beginners und
 * 🔹 Getting Started: Clone the repo and follow the setup guide in the README.
 * 🔹 Contributions: Feel free to fork, improve, and share your own Selenium snippets!
 
-🐼 Perfect for learning web automation, testing, and scripting!
+## Examples
+
+* Website Normal
+* Website Proxy
+* IMDB Chart
