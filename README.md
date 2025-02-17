@@ -18,3 +18,5 @@ This repository contains basic Selenium WebDriver examples to help beginners und
 * Website Normal
 * Website Proxy
 * IMDB Chart
+* Read External File
+* Speed Test with Fast.com
