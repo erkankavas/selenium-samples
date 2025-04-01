@@ -20,3 +20,7 @@ This repository contains basic Selenium WebDriver examples to help beginners und
 * IMDB Chart
 * Read External File
 * Speed Test with Fast.com
+
+## Soon
+
+https://about.netflix.com/tr/new-to-watch
