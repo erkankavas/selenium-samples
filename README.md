@@ -23,4 +23,5 @@ This repository contains basic Selenium WebDriver examples to help beginners und
 
 ## Soon
 
-https://about.netflix.com/tr/new-to-watch
+* https://about.netflix.com/tr/new-to-watch
+* News websites.
